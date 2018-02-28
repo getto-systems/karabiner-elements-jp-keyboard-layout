@@ -5,7 +5,7 @@ japanese keyboard layout for karabiner-elements
 
 ## Import to Karabiner-Elements
 
-- インポート : <a href="karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgetto-systems%2Fkarabiner-elements-jp-keyboard-layout%2Fmaster%2Fjp-keyboard-layout.json">import</a>
+- インポート : [Mac で「かな」配列をカスタマイズする - 2018版 | げっとシステムログ](http://www.getto.systems/entry/2018/03/01/063706#jp-keyboard-layout)
 
 
 ## Layouts
